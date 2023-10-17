@@ -1,6 +1,6 @@
 {
   "bottoken": "your_bot_token_here",
   "guildID": "your_guild_id_here",
-  "botOwnerId: "your_user_id_here",
+  "botOwnerId": "your_user_id_here",
   "botAdminId": [ "bot_admin_ids_here", "you_must_put_your_id_here_too" ]
 }
