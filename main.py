@@ -44,8 +44,8 @@ btcimage = "https://seeklogo.com/images/B/bitcoin-logo-DDAEEA68FA-seeklogo.com.p
 ethimage = "https://seeklogo.com/images/E/ethereum-logo-DE26DD608D-seeklogo.com.png"
 ltcimage = "https://seeklogo.com/images/L/litecoin-logo-09A62FE1FB-seeklogo.com.png"
 cashappimage = "https://seeklogo.com/images/C/cash-app-logo-A39DD086EB-seeklogo.com.png"
-venmoimage = "https://cdn.discordapp.com/attachments/1136891544683696128/1141357822098018374/venmo_1.png"
-amazonimage = "https://cdn.discordapp.com/attachments/1126315327488262245/1141904744969941032/amazon-dark-logo-png-transparent.png"
+venmoimage = "https://img.icons8.com/?size=100&id=KAzzPxbbSqV6&format=png&color=000000"
+amazonimage = "https://img.icons8.com/?size=100&id=21295&format=png&color=000000"
 cryptovoucherimage = "https://cdn.discordapp.com/attachments/1152283745110458418/1155914306555232256/cryptovoucher.png"
 
 ################################
